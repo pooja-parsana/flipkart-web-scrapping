@@ -5386,3 +5386,25 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:30:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:30:56] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:30:56] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:30:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I have been using iPhones for years, but the fast charging and battery on this one is brilliant. Like i always say, iPhone is more of a jewellery than a phone. But this one has some power-packed features and an awesome camera. So if you can afford it, buy it!'}, {'Product': 'iphone12pro', 'Name': 'Rahul  Meena', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I like the most in this phone:-1. I like the size of this phone because it is easy to hold.2. The camera quality of this phone is admirable. 3. Battery backup is good.4. The new design and colour  of this phone also a plus point of its beauty.5. These  points are my personal which i like most in this phone.'}, {'Product': 'iphone12pro', 'Name': 'Nami Hathishah', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'One of the best looking phone in the market right now with a decent performance jump from 11 pro. Camera is excellent and the display is quite responsive and sharp. Only issue is it does not have a higher refresh rate and the battery life is average.'}, {'Product': 'iphone12pro', 'Name': 'Rajesh Jena', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I have upgraded from Android to iOS for the first time with the IPhone 12 Pro. And the experience is very much satisfactory. The new A14 bionic processor is very fast. The boxy design is what I liked the most. The camera and display are top notch. Night mode photography is excellent. Worth upgrading from Android to iOS .'}, {'Product': 'iphone12pro', 'Name': 'Lee Phela', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome!Just made an upgrade from X, worth every single penny spent on it, the camera is just too superb, be it the selfie cam or the main rear cam, the goodness it takes the picture is just beyond words, no smart phone can beat it atm! However, the battery life tends to be on the shorter side, that’s the only con that I can’t think up of now,'}, {'Product': 'iphone12pro', 'Name': 'Rajkumar tiwari', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'indeed a great phone feels premium in hand but battery life is low'}, {'Product': 'iphone12pro', 'Name': 'Kirti Yadav', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Its just Perfect . Prices are a bit high .'}, {'Product': 'iphone12pro', 'Name': 'Tushar Saini', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'The camera is mind-blowing I love it 😘'}, {'Product': 'iphone12pro', 'Name': 'Aasheesh Vats', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'A masterpiece to cherish.'}, {'Product': 'iphone12pro', 'Name': 'Salman Rahman', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This one of the best iPhone ever built, though battery backup isn’t good. But the user experience is brilliant.Upgraded from 11 Pro.'}, {'Product': 'iphone12pro', 'Name': 'Salman Rahman', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This one of the best iPhone ever built, though battery backup isn’t good. But the user experience is brilliant.Upgraded from 11 Pro.'}]
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:31:07] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:31:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [03/May/2023 18:31:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
